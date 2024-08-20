@@ -44,8 +44,30 @@ I am committed to leveraging my expertise to solve real-world problems and contr
 - Word, PowerPoint, Excel/VBA, XLSTAT
 
 ### Data Manipulation and Analysis:
-- **Python Libraries:** Numpy, Pandas, Scikit-learn, Matplotlib, Pytorch
-- **Tools:** Conda, Jupyter, Spark, MySQL, PostgreSQL, SQLite
+- **Python Libraries:**
+  - **Numpy:** For numerical computations and array operations.
+  - **Pandas:** For data manipulation and analysis, including DataFrames.
+  - **Scikit-learn:** For machine learning algorithms and data preprocessing.
+  - **Matplotlib & Seaborn:** For data visualization.
+  - **TensorFlow & Keras:** For building and training deep learning models.
+  - **Pytorch:** For deep learning, especially in research and custom neural networks.
+  - **Flask:** For developing web applications and APIs.
+  - **Selenium:** For web scraping and browser automation.
+  - **BeautifulSoup:** For parsing HTML and extracting information from web pages.
+
+
+- **Data Management and Big Data Tools:**
+  - **Spark:** For big data processing and distributed computing.
+  - **SQL & NoSQL Databases:** MySQL, PostgreSQL, SQLite for relational data; MongoDB for NoSQL.
+  - **Excel/VBA:** For advanced data manipulation and automation tasks in Microsoft Excel.
+  - **QGIS:** For geospatial data analysis and visualization.
+  - **Looker Studio & PowerBI:** For business intelligence and dashboard creation.
+
+- **Development and Environment Tools:**
+  - **Conda:** For managing Python environments and packages.
+  - **Jupyter Notebook:** For interactive data analysis and documentation.
+  - **VS Code:** For coding, debugging, and version control integration.
+
 
 ### Environments, Testing, and Other Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -59,6 +81,6 @@ I am committed to leveraging my expertise to solve real-world problems and contr
 
 ## Get in Touch:
 - **Email:** damtykrah@gmail.com
-- **LinkedIn:** [Connect with me]([https://www.linkedin.com](https://www.linkedin.com/in/abraham-krah-627257199))
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abraham-krah-627257199)
 
 I'm always open to discussions on data science, econometrics, and collaborative projects. Let's connect!
