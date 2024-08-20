@@ -6,7 +6,7 @@ I'm Abraham Krah, a passionate Data Scientist/Econometrician with a strong backg
 I am committed to leveraging my expertise to solve real-world problems and contribute to the data science community.
 
 ## Current Work Experience:
-### Data Scientist at Click2buy — leading "where-to-buy" company in France - (Lille, France)
+### Data Scientist at Click2buy -- leading "where-to-buy" company in France -- (Lille, France)
 - **AI Tool Development:** Developed an AI tool using Python to enhance product matching between brand and retailer databases, reducing manual merge rates by 20%.
 - **Automatic Data Flow Analysis:** Developed an automatic analysis tool in Python for processing the data streams received from distributors, which reduced the data integration time by 30% for the Data team.
 - **Data Scraping:** Maintained and optimized two scrapers for building product databases.
