@@ -3,7 +3,7 @@
 ## About Me:
 I'm Abraham Krah, a passionate Data Scientist/Econometrician with a strong background in statistics, econometrics, and data science. I have experience in developing predictive models, working with large datasets, and applying advanced statistical methods. My academic and professional journey has equipped me with the skills to tackle complex data challenges, particularly in the areas of credit risk modeling, trading algorithms, real estate analysis and marketing.
 
-I am committed to leveraging my expertise to solve real-world problems and contribute to the data science community, particularly in developing countries.
+I am committed to leveraging my expertise to solve real-world problems and contribute to the data science community.
 
 ## Current Work Experience:
 ### Data Scientist at Click2buy — leading "where-to-buy" company in France - (Lille, France)
@@ -14,16 +14,16 @@ I am committed to leveraging my expertise to solve real-world problems and contr
 - **Dashboard Creation:** Created and maintained five dashboards summarizing usage statistics of our solution for priority verticals using Looker Studio.
 
 ## Previous Projects:
-- **Real Estate Price Modeling in France (Université de Strasbourg):**
+- **Real Estate Price Modeling in France:**
   - Conducted an analysis of the impact of real estate prices in city centers on their peripheries, using contagion models and price indices, with over 8 million observations.
   
-- **Credit Risk Modeling (University Project):**
+- **Credit Risk Modeling:**
   - Worked on calculating the probability of default (PD) under the IFRS9 and CECL frameworks, applying econometric models to assess credit risk.
 
 - **Trading Algorithm Development:**
   - Developed a trading algorithm leveraging deep learning techniques for predicting market movements.
 
-- **Insurance Pricing (Personal Project):**
+- **Insurance Pricing:**
   - Utilized econometrics and machine learning models to develop pricing strategies for the insurance industry.
 
 ## Skills:
@@ -54,7 +54,6 @@ I am committed to leveraging my expertise to solve real-world problems and contr
 
 ### Operating Systems:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
