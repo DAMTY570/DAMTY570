@@ -1,13 +1,14 @@
 # Hi there !! 👋
 
 ## About Me:
-I'm Abraham Krah, a passionate Data Scientist with a strong background in statistics, econometrics, and data science. I have experience in developing predictive models, working with large datasets, and applying advanced statistical methods. My academic and professional journey has equipped me with the skills to tackle complex data challenges, particularly in the areas of credit risk modeling, trading algorithms, and real estate analysis.
+I'm Abraham Krah, a passionate Data Scientist/Econometrician with a strong background in statistics, econometrics, and data science. I have experience in developing predictive models, working with large datasets, and applying advanced statistical methods. My academic and professional journey has equipped me with the skills to tackle complex data challenges, particularly in the areas of credit risk modeling, trading algorithms, real estate analysis and marketing.
 
-I am committed to leveraging my expertise to solve real-world problems and contribute to the data science community, particularly in Africa.
+I am committed to leveraging my expertise to solve real-world problems and contribute to the data science community, particularly in developing countries.
 
 ## Current Work Experience:
-### Data Scientist Intern at Click2buy (Lille, France)
+### Data Scientist at Click2buy — leading "where-to-buy" company in France - (Lille, France)
 - **AI Tool Development:** Developed an AI tool using Python to enhance product matching between brand and retailer databases, reducing manual merge rates by 20%.
+- **Automatic Data Flow Analysis:** Developed an automatic analysis tool in Python for processing the data streams received from distributors, which reduced the data integration time by 30% for the Data team.
 - **Data Scraping:** Maintained and optimized two scrapers for building product databases.
 - **Data Monitoring and Reporting:** Managed data processing tasks and monitored issues using Jira and Looker Studio, with bi-weekly presentations of KPIs to the company.
 - **Dashboard Creation:** Created and maintained five dashboards summarizing usage statistics of our solution for priority verticals using Looker Studio.
@@ -59,6 +60,6 @@ I am committed to leveraging my expertise to solve real-world problems and contr
 
 ## Get in Touch:
 - **Email:** damtykrah@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com)
+- **LinkedIn:** [Connect with me]([https://www.linkedin.com](https://www.linkedin.com/in/abraham-krah-627257199))
 
 I'm always open to discussions on data science, econometrics, and collaborative projects. Let's connect!
