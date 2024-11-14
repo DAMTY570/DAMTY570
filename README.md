@@ -1,7 +1,7 @@
 # Hi there !! 👋
 
 ## About Me:
-I'm Abraham Krah, a passionate Data Scientist/Econometrician with a strong background in statistics, econometrics, and data science. I have experience in developing predictive models, working with large datasets, and applying advanced statistical methods. My academic and professional journey has equipped me with the skills to tackle complex data challenges, particularly in the areas of credit risk modeling, trading algorithms, real estate analysis and marketing.
+I'm Abraham Krah, a passionate Data Scientist/Econometrician with a strong background in statistics, finance, econometrics, and data science. I have experience in developing predictive models, working with large datasets, and applying advanced statistical methods. My academic and professional journey has equipped me with the skills to tackle complex data challenges, particularly in the areas of credit risk modeling, trading algorithms, real estate analysis and marketing.
 
 I am committed to leveraging my expertise to solve real-world problems and contribute to the data science community.
 
