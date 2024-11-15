@@ -39,6 +39,7 @@ I am committed to leveraging my expertise to solve real-world problems and contr
 ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?logo=google&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![QGIS](https://img.shields.io/badge/-QGIS-3A5542?logo=qgis&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/-Apache_Superset-F45D01?logo=apache&logoColor=white)
 
 ### Microsoft Office Suite:
 - Word, PowerPoint, Excel/VBA, XLSTAT
